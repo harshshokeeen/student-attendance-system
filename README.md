@@ -21,7 +21,6 @@ The system handles and outputs attendance data in a standardized CSV format [1].
 *(Note: 'P' indicates Present and 'A' indicates Absent) [1].*
 
 ## 💻 Tech Stack
-*(Please update this section with the specific technologies used in your project)*
-- **Frontend:** [e.g., HTML/CSS/JS, React, Tkinter]
-- **Backend:** [e.g., Python, Node.js, Java]
-- **Database/Storage:** [e.g., CSV File Handling, MySQL, SQLite]
+- **Frontend:** [HTML/CSS/JS]
+- **Backend:** [Python]
+- **Database/Storage:** [CSV File Handling]
